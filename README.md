@@ -8,6 +8,9 @@ This template is for creating a monorepo with shadcn/ui.
 pnpm dlx shadcn@latest init
 ```
 
+
+video : 32:00
+
 ## Adding components
 
 To add components to your app, run the following command at the root of your `web` app:
