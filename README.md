@@ -9,7 +9,7 @@ pnpm dlx shadcn@latest init
 ```
 
 
-video : 32:00
+video : 1h:09
 
 ## Adding components
 
