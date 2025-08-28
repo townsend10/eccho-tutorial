@@ -8,7 +8,7 @@ This template is for creating a monorepo with shadcn/ui.
 pnpm dlx shadcn@latest init
 ```
 
-video : 1h:28
+video : 2h:07
 
 ## Adding components
 
