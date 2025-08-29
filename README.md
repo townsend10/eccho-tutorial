@@ -7,8 +7,10 @@ This template is for creating a monorepo with shadcn/ui.
 ```bash
 pnpm dlx shadcn@latest init
 ```
+SENTRY= https://developer-uq.sentry.io/issues/6843280471/?query=is%3Aunresolved&referrer=issue-stream
+video : 3H:00
 
-video : 2h:07
+SENTY INTEGRATION 2H:58...
 
 ## Adding components
 
