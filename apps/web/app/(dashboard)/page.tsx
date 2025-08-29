@@ -11,12 +11,8 @@ export default function Page() {
     <div className="flex flex-col items-center justify-center min-h-svh">
       <p>web app</p>
       <Button onClick={() => addUser()}>add</Button>
-      <div className="max-w-sm w-full mx-auto">
-        <UserButton />
-        <OrganizationSwitcher hidePersonal={true} />
-
-        {JSON.stringify(users, null, 2)}
-      </div>
+      <UserButton />
+      <OrganizationSwitcher hidePersonal={true} />
     </div>
   );
 }
