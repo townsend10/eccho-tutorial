@@ -16,6 +16,8 @@
     "@workspace/backend": "workspace:*",
     "@workspace/math": "workspace:*",
     "@workspace/ui": "workspace:*",
+        "@vapi-ai/web": "^2.3.9",
+
     "convex": "1.25.4",
     "datetime": "^0.0.3",
     "lucide-react": "^0.475.0",
