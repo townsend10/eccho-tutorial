@@ -14,6 +14,9 @@ node_modules
 
 # Testing
 coverage
+# Sentry env files
+.env.sentry-build-plugin
+
 
 # Turbo
 .turbo
